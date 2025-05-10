@@ -1,7 +1,14 @@
-<div style="background-color:#000000; padding: 20px;">
+<div style="
+  background-color: #000000;
+  background-image: url('https://i.gifer.com/24Br.gif'); /* Replace with a hosted transparent globe gif */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 40px;
+">
 
   <h1 style="text-align: left; color: #ffffff;">
-    <code><span style="font-family: 'Fira Code', monospace;">MSMW01F</span></code>
+    <code><span style="font-family: 'Fira Code', monospace;">MSMWØ1F</span></code>
   </h1>
 
   <p style="text-align: left;">
@@ -9,6 +16,7 @@
   </p>
 
 </div>
+
 
 ---
 
