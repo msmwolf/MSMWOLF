@@ -7,7 +7,7 @@
 </h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=98e700&width=500&lines=%3E+Security+Consultant;%3E+VAPT+%7C+OffSec+%7C+CTF+Player+%7C+Red+Teamer;%3E+CEH+%7C+CRTP+%7C+CAPEN+%7C+CNSP+%7C+CAP" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=98e700&width=500&lines=%3E+Security+Consultant;%3E+VAPT+%7C+CTF+Player+%7C+Red+Teamer;%3E+CEH+%7C+CRTP+%7C+CAPEN+%7C+CNSP+%7C+CAP" />
 </p>
 
 
