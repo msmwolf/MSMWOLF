@@ -1,19 +1,24 @@
-<h1 align="center"> MSMW01F</h1>
+<h1 align="center">
+  <code><span style="font-family: 'Fira Code', monospace;">MSMW01F</span></code>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=7CB311&center=true&vCenter=true&width=435&lines=Cybersecurity+Consultant;Ethical+Hacker+%7C+CEH;VAPT+%7C+Red+Teamer;Always+Scanning+the+Matrix..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=7CB311&center=true&vCenter=true&width=500&lines=Ethical+Hacker+%7C+CEH+%7C+VAPT;Cybersecurity+Consultant;Red+Team+Operator;Glitching+the+Matrix...">
 </p>
 
 ---
 
-### 🧠 About Me
+### 👨‍💻 About Me
 
 ```bash
-$ whoami
-> MSMW01F - Security Consultant | Ethical Hacker
+┌──(root💀MSMW01F)-[~]
+└─$ whoami
+> Ethical Hacker | CEH | CRTP | VAPT | Red Team 
 
-$ pwd
-> /dev/null
+┌──(root💀MSMW01F)-[~]
+└─$ pwd
+> /cyber/ops/lab
 
-$ cat skills.txt
-> VAPT | Network & Web Security | Phishing | OSINT | Red Teaming | CEH Certified
+┌──(root💀MSMW01F)-[~]
+└─$ cat skills.txt
+> 🧠 Recon | Web & Network VAPT | Social Engineering | Red Teaming | Offensive Security | Python Scripts | Reporting
