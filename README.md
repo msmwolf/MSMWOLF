@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="[https://i.gifer.com/7pCQ.gif](https://assetsio.gnwcdn.com/san-francisco-subway-system-hacked-passengers-get-free-rides-148033947612.gif?width=690&quality=70&format=jpg&auto=webp)" width="50%" alt="Hacker Globe Animation" />
+  <img src="https://github.com/msmwolf/MSMWOLF/blob/main/Dedsec.gif" width="100%" alt="Hacker Globe Animation" />
 </p>
 
 <h1 align="left">
