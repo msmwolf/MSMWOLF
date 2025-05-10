@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://raw.githubusercontent.com/msmwolf/MSMWOLF/main/Dedsec.gif" width="50%" alt="Hacker Animation" />
+  <img src="https://raw.githubusercontent.com/msmwolf/MSMWOLF/main/Dedsec.gif" width="40%" alt="Hacker Animation" />
 </p>
 
 <h1 align="left">
@@ -17,14 +17,21 @@
 ### 👨‍💻 About Me
 
 ```bash
-┌──(root💀MSMW01F)-[~]
+┌──(root💀MSMWØ1F)-[~]
 └─$ whoami
-> Ethical Hacker | CEH | CRTP | VAPT | Red Team 
+> Cybersecurity Consultant
+> Ethical Hacker | Red Teamer | CTF Player
+> CEH | CRTP | CAPEN | CAP | CNSP
+> Offensive Security Enthusiast
+> Based in /India/NaviMumbai
 
-┌──(root💀MSMW01F)-[~]
+┌──(root💀MSMWØ1F)-[~]
 └─$ pwd
 > /cyber/ops/lab
 
-┌──(root💀MSMW01F)-[~]
+┌──(root💀MSMWØ1F)-[~]
 └─$ cat skills.txt
-> 🧠 Recon | Web & Network VAPT | Social Engineering | Red Teaming | Offensive Security | Python Scripts | Reporting
+> Recon | Web & Network VAPT | Social Engineering
+> Red Teaming | Phishing | Password Spraying
+> Burp | Metasploit | Wireshark | Gophish | Nipper
+> Python Scripts | Custom Payloads | Reporting
