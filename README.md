@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me
 
 ```bash
-┌──(root💀MSMWØ1F)-[~]
+┌──(root💀MSMW01F)-[~]
 └─$ whoami
 > Cybersecurity Consultant
 > Ethical Hacker | Red Teamer | CTF Player
@@ -25,11 +25,11 @@
 > Offensive Security Enthusiast
 > Based in /India/NaviMumbai
 
-┌──(root💀MSMWØ1F)-[~]
+┌──(root💀MSMW01F)-[~]
 └─$ pwd
 > /cyber/ops/lab
 
-┌──(root💀MSMWØ1F)-[~]
+┌──(root💀MSMW01F)-[~]
 └─$ cat skills.txt
 > Recon | Web & Network VAPT | Social Engineering
 > Red Teaming | Phishing | Password Spraying
