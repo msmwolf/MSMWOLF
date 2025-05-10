@@ -1,21 +1,15 @@
-<div style="
-  background-color: #000000;
-  background-image: url('https://i.gifer.com/24Br.gif'); /* Replace with a hosted transparent globe gif */
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  padding: 40px;
-">
+<p align="left">
+  <img src="https://i.gifer.com/24Br.gif" width="100%" alt="Hacker Globe Animation" />
+</p>
 
-  <h1 style="text-align: left; color: #ffffff;">
-    <code><span style="font-family: 'Fira Code', monospace;">MSMWØ1F</span></code>
-  </h1>
+<h1 align="left">
+  <code><span style="font-family: 'Fira Code', monospace;">MSMW01F</span></code>
+</h1>
 
-  <p style="text-align: left;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=7CB311&width=500&lines=Ethical+Hacker+%7C+CEH+%7C+CRTP+%7C+VAPT;Cybersecurity+Consultant;Red+Team+%7C+Offensive+Security" />
-  </p>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=7CB311&width=500&lines=Ethical+Hacker+%7C+CEH+%7C+CRTP+%7C+VAPT;Cybersecurity+Consultant;Red+Team+%7C+Offensive+Security" />
+</p>
 
-</div>
 
 
 ---
