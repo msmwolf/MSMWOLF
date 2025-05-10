@@ -21,7 +21,7 @@
 └─$ whoami
 > Cybersecurity Consultant
 > Ethical Hacker | Red Teamer | CTF Player
-> CEH | CRTP | CAPEN | CAP | CNSP
+> CEH | CRTP | CAPEN | CNSP | CAP
 > Offensive Security Enthusiast
 > Based in /India/NaviMumbai
 
