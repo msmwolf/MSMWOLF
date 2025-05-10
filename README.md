@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://i.gifer.com/24Br.gif" width="100%" alt="Hacker Globe Animation" />
+  <img src="https://i.gifer.com/7pCQ.gif" width="50%" alt="Hacker Globe Animation" />
 </p>
 
 <h1 align="left">
