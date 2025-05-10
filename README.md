@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://raw.githubusercontent.com/msmwolf/MSMWOLF/main/Dedsec.gif" width="100%" alt="Hacker Globe Animation" />
+  <img src="https://raw.githubusercontent.com/msmwolf/MSMWOLF/main/Dedsec.gif" width="50%" alt="Hacker Animation" />
 </p>
 
 <h1 align="left">
